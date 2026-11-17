@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iPhone Duo Tracker</title>
+<style>
+  :root {
+    --bg: #faf9f6; --panel: #ffffff; --fg: #1f1e1b; --muted: #6b6860; --line: #e3e0d8;
+    --accent: #2f6b5e; --bar-muted: #b9b5aa; --ok: #2f6b5e; --grid: #ece9e1;
+    --radius: 8px; --pad: 1rem; --gap: 1rem;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --serif: ui-serif, Georgia, "Times New Roman", serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1917; --panel: #232220; --fg: #ecebe6; --muted: #a09d94; --line: #36342f;
+      --accent: #6fbfa9; --bar-muted: #57544d; --ok: #6fbfa9; --grid: #2e2c28;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.45 var(--sans); }
+  main { max-width: 72rem; margin: 0 auto; padding: 1.5rem 1rem 3rem; display: flex; flex-direction: column; gap: var(--gap); }
+  h1 { font: 400 2rem/1.15 var(--serif); margin: 0; }
+  h2 { font-size: 1.05rem; font-weight: 600; margin: 0; }
+  p { margin: 0; }
+  .muted { color: var(--muted); font-size: .85rem; }
+  header { display: flex; flex-direction: column; gap: .35rem; }
+  .lede b { font-weight: 600; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); gap: var(--gap); }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: var(--pad); display: flex; flex-direction: column; gap: .5rem; min-width: 0; }
+  .big { font: 400 2.25rem/1.1 var(--serif); font-variant-numeric: tabular-nums; }
+  .label, .note { font-size: .85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .controls { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+  .controls input[type=search], .controls select { font: inherit; padding: .3rem .6rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); color: var(--fg); min-width: 0; }
+  .controls input[type=search] { flex: 1 1 12rem; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+  .seg button { font: inherit; background: var(--bg); color: var(--fg); border: 0; padding: .3rem .8rem; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button[aria-pressed=true] { background: var(--fg); color: var(--bg); }
+  .check { display: inline-flex; gap: .35rem; align-items: center; cursor: pointer; }
+  .scroll { max-height: 34rem; overflow: auto; border: 1px solid var(--line); border-radius: var(--radius); }
+  table { border-collapse: collapse; width: 100%; }
+  th { position: sticky; top: 0; background: var(--panel); text-align: left; font-weight: 600; border-bottom: 1px solid var(--line); padding: 0; white-space: nowrap; z-index: 1; }
+  th button { font: inherit; font-weight: inherit; color: var(--fg); background: none; border: 0; padding: .5rem .8rem; cursor: pointer; width: 100%; text-align: left; }
+  th button[aria-sort]::after { content: " ↓"; color: var(--muted); }
+  th button[aria-sort=ascending]::after { content: " ↑"; }
+  td { padding: .5rem .8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  td a { color: var(--fg); text-underline-offset: 2px; }
+  td.date { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  td.ev { color: var(--muted); min-width: 16rem; }
+  td.ev span { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .mine { margin-left: .35rem; font-size: .8rem; color: var(--ok); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr)); gap: var(--gap); }
+  .legend { display: flex; gap: 1rem; font-size: .85rem; color: var(--muted); }
+  .legend i { display: inline-block; width: .65rem; height: .65rem; border-radius: 2px; margin-right: .35rem; vertical-align: -1px; }
+  .chart { position: relative; min-height: 15rem; }
+  .chart svg { display: block; width: 100%; height: auto; }
+  .chart text { fill: var(--muted); font-size: 11px; font-family: var(--sans); }
+  .tip { position: absolute; pointer-events: none; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 2px 8px rgba(0,0,0,.18); padding: .25rem .6rem; font-size: .85rem; white-space: nowrap; display: none; }
+  .tip small { display: block; color: var(--muted); }
+  .cats { display: flex; flex-direction: column; gap: .35rem; min-height: 15rem; max-height: 22rem; overflow: auto; }
+  .cat { display: grid; grid-template-columns: minmax(6rem, 9.5rem) 1fr minmax(5.5rem, auto); gap: .5rem; align-items: center; font-size: .85rem; }
+  .cat .n { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .cat .t { height: .6rem; background: var(--grid); border-radius: 2px; }
+  .cat .t i { display: block; height: 100%; border-radius: 2px; background: var(--accent); }
+  .cat .v { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  #error { color: #b3261e; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>iPhone Duo tracker</h1>
+    <p class="lede"><b id="l-sup">—</b> of the <b id="l-tot">—</b> tracked personal apps now mention iPhone Duo in their release notes, and <b id="l-week">—</b> of them added it in the last 7 days.</p>
+    <p class="muted">An app counts as supported when the release notes of its current App Store version say “iPhone Duo”. No mention means unknown, not unsupported. Last checked <span id="last">—</span>.</p>
+    <p id="error" class="muted" hidden></p>
+  </header>
+
+  <section class="tiles" aria-label="Headline figures">
+    <div class="card"><span class="label">Personal apps with Duo support</span><b class="big" id="t-mine-sup">—</b><span class="note">of <span id="t-mine-tot">—</span> apps</span></div>
+    <div class="card"><span class="label">Personal apps, last 7 days</span><b class="big" id="t-mine-wk">—</b><span class="note">released after <span class="since">—</span></span></div>
+    <div class="card"><span class="label">Top-chart apps with Duo support</span><b class="big" id="t-sv-share">—</b><span class="note"><span id="t-sv-sup">—</span> of <span id="t-sv-tot">—</span> apps; <span id="t-sv-ng">—</span> without games</span></div>
+    <div class="card"><span class="label">Top-chart apps, last 7 days</span><b class="big" id="t-sv-wk">—</b><span class="note">added Duo support in a release since <span class="since">—</span></span></div>
+  </section>
+
+  <section class="card" aria-labelledby="h-recent">
+    <div>
+      <h2 id="h-recent">Recently added</h2>
+      <p class="muted">Apps that mention iPhone Duo, newest first. The date is the release date of the earliest version this tracker has seen that mentions it, so an app that added support before tracking began shows a later date than its true first.</p>
+    </div>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Whose apps">
+        <button type="button" data-owner="all" aria-pressed="true">All</button>
+        <button type="button" data-owner="mine" aria-pressed="false">Personal</button>
+        <button type="button" data-owner="survey" aria-pressed="false">Top charts</button>
+      </div>
+      <select id="cat" aria-label="Category"></select>
+      <label class="check"><input type="checkbox" id="nogames"> Hide games</label>
+      <input type="search" id="q" placeholder="Search apps" aria-label="Search apps">
+    </div>
+    <div class="scroll">
+      <table>
+        <thead><tr>
+          <th><button type="button" data-sort="name">App</button></th>
+          <th><button type="button" data-sort="category">Category</button></th>
+          <th><button type="button" data-sort="first_seen" aria-sort="descending">First seen</button></th>
+          <th><button type="button" data-sort="version">Version</button></th>
+          <th><button type="button" data-sort="evidence">Release notes</button></th>
+        </tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="grid">
+    <section class="card" aria-labelledby="h-weekly">
+      <div>
+        <h2 id="h-weekly">New apps with Duo support per week</h2>
+        <p class="muted">Counted by the week of the release that first mentions it.</p>
+      </div>
+      <div class="legend"><span><i style="background:var(--accent)"></i>Personal apps</span><span><i style="background:var(--bar-muted)"></i>Top-chart apps</span></div>
+      <div class="chart" id="weekly"></div>
+    </section>
+    <section class="card" aria-labelledby="h-cats">
+      <div>
+        <h2 id="h-cats">Share of top-chart apps by category</h2>
+        <p class="muted">Each category's top charts, free, paid and grossing, on iPhone and iPad.</p>
+      </div>
+      <div class="cats" id="cats"></div>
+    </section>
+  </div>
+</main>
+
+<script>
+(async () => {
+  const $ = (id) => document.getElementById(id);
+  const fmtN = new Intl.NumberFormat('en-US');
+  const fmtPct = (v) => (v * 100).toFixed(1) + '%';
+  const fmtDay = (s) => new Date(s + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+
+  let apps;
+  try {
+    const r = await fetch('apps.json', { cache: 'no-cache' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    apps = await r.json();
+  } catch (e) {
+    const err = $('error'); err.hidden = false; err.textContent = 'Could not load apps.json: ' + e.message;
+    return;
+  }
+
+  // --- summary
+  const latest = apps.reduce((m, a) => (a.checked > m ? a.checked : m), '');
+  const d0 = new Date(latest + 'T00:00:00Z'); d0.setUTCDate(d0.getUTCDate() - 7);
+  const since = d0.toISOString().slice(0, 10);
+  const tally = (g) => {
+    const s = g.filter((a) => a.status === 'supported');
+    return { total: g.length, sup: s.length, week: s.filter((a) => a.first_seen > since).length, share: g.length ? s.length / g.length : 0 };
+  };
+  const mine = tally(apps.filter((a) => a.owner === 'mine'));
+  const sv = tally(apps.filter((a) => a.owner === 'survey'));
+  const svNg = tally(apps.filter((a) => a.owner === 'survey' && a.category !== 'Games'));
+  const set = (id, v) => { $(id).textContent = v; };
+  set('l-sup', fmtN.format(mine.sup)); set('l-tot', fmtN.format(mine.total)); set('l-week', fmtN.format(mine.week));
+  set('last', fmtDay(latest));
+  document.querySelectorAll('.since').forEach((e) => { e.textContent = fmtDay(since); });
+  set('t-mine-sup', fmtN.format(mine.sup)); set('t-mine-tot', fmtN.format(mine.total)); set('t-mine-wk', fmtN.format(mine.week));
+  set('t-sv-share', fmtPct(sv.share)); set('t-sv-sup', fmtN.format(sv.sup)); set('t-sv-tot', fmtN.format(sv.total));
+  set('t-sv-ng', fmtPct(svNg.share)); set('t-sv-wk', fmtN.format(sv.week));
+
+  // --- table
+  const ui = { owner: 'all', cat: '', nogames: false, q: '', sort: 'first_seen', dir: -1 };
+  const supported = apps.filter((a) => a.status === 'supported');
+  const cats = [...new Set(supported.map((a) => a.category))].sort();
+  $('cat').replaceChildren(new Option('All categories', ''), ...cats.map((c) => new Option(c, c)));
+
+  function drawRows() {
+    const q = ui.q.trim().toLowerCase();
+    const rows = supported.filter((a) =>
+      (ui.owner === 'all' || a.owner === ui.owner) && (!ui.cat || a.category === ui.cat) &&
+      (!ui.nogames || a.category !== 'Games') && (!q || a.name.toLowerCase().includes(q)));
+    const k = ui.sort;
+    rows.sort((a, b) => {
+      const x = a[k] ?? '', y = b[k] ?? '';
+      if (k === 'first_seen' && (!x || !y)) return !x ? 1 : -1;
+      return (x < y ? -1 : x > y ? 1 : a.name.localeCompare(b.name)) * ui.dir;
+    });
+    $('rows').replaceChildren(...rows.map((a) => {
+      const tr = document.createElement('tr');
+      const name = document.createElement('td');
+      const link = document.createElement('a');
+      link.textContent = a.name;
+      if (a.track_id) { link.href = 'https://apps.apple.com/app/id' + a.track_id; link.target = '_blank'; link.rel = 'noopener'; }
+      name.append(link);
+      if (a.owner === 'mine') { const m = document.createElement('span'); m.className = 'mine'; m.textContent = 'Personal'; name.append(m); }
+      const cat = document.createElement('td'); cat.textContent = a.category;
+      const day = document.createElement('td'); day.className = 'date';
+      day.textContent = a.first_seen ? fmtDay(a.first_seen) : (a.source === 'manual' ? 'Set manually' : '');
+      const ver = document.createElement('td'); ver.textContent = a.version;
+      const ev = document.createElement('td'); ev.className = 'ev';
+      const evs = document.createElement('span'); evs.textContent = a.evidence; ev.append(evs);
+      tr.append(name, cat, day, ver, ev);
+      return tr;
+    }));
+  }
+  document.querySelectorAll('[data-sort]').forEach((b) => b.addEventListener('click', () => {
+    const k = b.dataset.sort;
+    if (ui.sort === k) ui.dir = -ui.dir; else { ui.sort = k; ui.dir = k === 'first_seen' ? -1 : 1; }
+    document.querySelectorAll('[data-sort]').forEach((o) => {
+      if (o.dataset.sort === ui.sort) o.setAttribute('aria-sort', ui.dir < 0 ? 'descending' : 'ascending');
+      else o.removeAttribute('aria-sort');
+    });
+    drawRows();
+  }));
+  document.querySelectorAll('[data-owner]').forEach((b) => b.addEventListener('click', () => {
+    ui.owner = b.dataset.owner;
+    document.querySelectorAll('[data-owner]').forEach((o) => o.setAttribute('aria-pressed', String(o === b)));
+    drawRows();
+  }));
+  $('cat').addEventListener('change', (e) => { ui.cat = e.target.value; drawRows(); });
+  $('nogames').addEventListener('change', (e) => { ui.nogames = e.target.checked; drawRows(); });
+  $('q').addEventListener('input', (e) => { ui.q = e.target.value; drawRows(); });
+  drawRows();
+
+  // --- weekly chart
+  const monday = (s) => {
+    const d = new Date(s + 'T00:00:00Z');
+    d.setUTCDate(d.getUTCDate() - ((d.getUTCDay() + 6) % 7));
+    return d.toISOString().slice(0, 10);
+  };
+  const by = {};
+  for (const a of supported) {
+    if (!a.first_seen) continue;
+    const w = monday(a.first_seen);
+    by[w] = by[w] || { week: w, mine: 0, survey: 0 };
+    by[w][a.owner === 'mine' ? 'mine' : 'survey'] += 1;
+  }
+  const weeks = [];
+  const keys = Object.keys(by).sort();
+  if (keys.length) {
+    const end = new Date(keys[keys.length - 1] + 'T00:00:00Z');
+    for (let d = new Date(keys[0] + 'T00:00:00Z'); d <= end; d.setUTCDate(d.getUTCDate() + 7)) {
+      const w = d.toISOString().slice(0, 10);
+      weeks.push(by[w] || { week: w, mine: 0, survey: 0 });
+    }
+  }
+
+  const NS = 'http://www.w3.org/2000/svg';
+  const mk = (tag, attrs = {}, text) => {
+    const e = document.createElementNS(NS, tag);
+    for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v);
+    if (text != null) e.textContent = text;
+    return e;
+  };
+  function niceMax(v) {
+    const p = Math.pow(10, Math.floor(Math.log10(v)));
+    for (const m of [1, 2, 2.5, 5, 10]) if (m * p >= v) return m * p;
+    return 10 * p;
+  }
+  function drawWeekly() {
+    const el = $('weekly');
+    el.replaceChildren();
+    if (!weeks.length) { el.textContent = '—'; return; }
+    const W = Math.max(280, el.clientWidth), H = 240, base = H - 28, top = 12;
+    const ymax = niceMax(Math.max(1, ...weeks.map((r) => r.mine + r.survey)));
+    const y = (v) => base - (v / ymax) * (base - top);
+    const ticks = [0, 1, 2, 3, 4].map((i) => (ymax * i) / 4);
+    const left = 12 + Math.max(...ticks.map((t) => fmtN.format(t).length)) * 6.5;
+    const bw = (W - 8 - left) / weeks.length, pad = bw * 0.25;
+    const x = (i) => left + i * bw + pad / 2;
+    const svg = mk('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'New apps with Duo support per week' });
+    for (const t of ticks) {
+      svg.append(mk('line', { x1: left, x2: W - 8, y1: y(t), y2: y(t), stroke: 'var(--grid)', 'stroke-width': 1 }));
+      svg.append(mk('text', { x: left - 6, y: y(t) + 4, 'text-anchor': 'end' }, fmtN.format(t)));
+    }
+    const step = Math.ceil(weeks.length / Math.max(1, Math.floor((W - left) / 56)));
+    weeks.forEach((r, i) => {
+      if (i % step === 0) svg.append(mk('text', { x: x(i) + (bw - pad) / 2, y: H - 8, 'text-anchor': 'middle' }, fmtDay(r.week)));
+      if (r.mine > 0) svg.append(mk('rect', { x: x(i), width: bw - pad, y: y(r.mine), height: base - y(r.mine), rx: 2, fill: 'var(--accent)' }));
+      if (r.survey > 0) svg.append(mk('rect', { x: x(i), width: bw - pad, y: y(r.mine + r.survey), height: y(r.mine) - y(r.mine + r.survey), rx: 2, fill: 'var(--bar-muted)' }));
+    });
+    const tip = document.createElement('div'); tip.className = 'tip';
+    weeks.forEach((r, i) => {
+      const hit = mk('rect', { x: x(i) - pad / 2, width: bw, y: 0, height: base, fill: 'transparent' });
+      hit.addEventListener('mousemove', (ev) => {
+        const b = el.getBoundingClientRect();
+        const t = document.createElement('small'); t.textContent = 'Week of ' + fmtDay(r.week);
+        const l1 = document.createElement('div'); l1.textContent = `Personal apps ${fmtN.format(r.mine)}`;
+        const l2 = document.createElement('div'); l2.textContent = `Top-chart apps ${fmtN.format(r.survey)}`;
+        tip.replaceChildren(t, l1, l2);
+        tip.style.display = 'block';
+        tip.style.left = Math.max(0, Math.min(ev.clientX - b.left + 12, b.width - tip.offsetWidth)) + 'px';
+        tip.style.top = Math.max(0, ev.clientY - b.top - tip.offsetHeight - 8) + 'px';
+      });
+      hit.addEventListener('mouseleave', () => { tip.style.display = 'none'; });
+      svg.append(hit);
+    });
+    el.append(svg, tip);
+  }
+  drawWeekly();
+  let lastW = $('weekly').clientWidth;
+  new ResizeObserver(() => { const w = $('weekly').clientWidth; if (w !== lastW) { lastW = w; drawWeekly(); } }).observe($('weekly'));
+
+  // --- categories
+  const byCat = {};
+  for (const a of apps) {
+    if (a.owner !== 'survey') continue;
+    const c = (byCat[a.category] = byCat[a.category] || { category: a.category, total: 0, supported: 0 });
+    c.total += 1;
+    if (a.status === 'supported') c.supported += 1;
+  }
+  const catRows = Object.values(byCat).map((c) => ({ ...c, share: c.supported / c.total }))
+    .sort((p, q) => q.share - p.share || p.category.localeCompare(q.category));
+  const cmax = Math.max(...catRows.map((r) => r.share), 0.0001);
+  $('cats').replaceChildren(...catRows.map((r) => {
+    const row = document.createElement('div'); row.className = 'cat';
+    const n = document.createElement('span'); n.className = 'n'; n.textContent = r.category; n.title = r.category;
+    const t = document.createElement('span'); t.className = 't';
+    const i = document.createElement('i'); i.style.width = (r.share / cmax * 100) + '%'; t.append(i);
+    const v = document.createElement('span'); v.className = 'v';
+    v.textContent = `${fmtPct(r.share)} · ${fmtN.format(r.supported)}/${fmtN.format(r.total)}`;
+    row.append(n, t, v);
+    return row;
+  }));
+})();
+</script>
+</body>
+</html>

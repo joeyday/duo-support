@@ -1,0 +1,5 @@
+*.log
+apps_raw.txt
+apps.json
+.claude/
+__pycache__/
