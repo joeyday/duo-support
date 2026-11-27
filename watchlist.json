@@ -2164,6 +2164,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T06:42:26Z",
         "version": "4.15.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:32:49Z",
+        "version": "4.15.5"
       }
     ],
     "name": "EseeCloud(IP Pro, VR Cam)",
@@ -2632,6 +2638,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T06:15:33Z",
         "version": "2.0.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:24:55Z",
+        "version": "2.0.1"
       }
     ],
     "name": "HRV4Biofeedback",
@@ -2686,6 +2698,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T20:55:28Z",
         "version": "9.0.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:45:18Z",
+        "version": "9.1.0"
       }
     ],
     "name": "HRV4Training",
@@ -3065,6 +3083,12 @@
         "mentions_duo": false,
         "released": "2026-07-28T17:47:52Z",
         "version": "1.0.42"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:10:59Z",
+        "version": "1.0.43"
       }
     ],
     "name": "Visit Hong Kong",
@@ -7199,6 +7223,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T19:59:35Z",
         "version": "26.47.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:51:14Z",
+        "version": "26.48.0"
       }
     ],
     "name": "Tolan: Your Friendly Guide",
@@ -7667,6 +7697,12 @@
         "mentions_duo": false,
         "released": "2026-11-05T21:44:42Z",
         "version": "1.8.10"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:46:34Z",
+        "version": "1.8.11"
       }
     ],
     "name": "Truthly: Catholic AI",
@@ -9919,6 +9955,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T20:17:55Z",
         "version": "1.5.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:49:48Z",
+        "version": "1.5.1"
       }
     ],
     "name": "BookZEN - Bookshelf & Tracker",
@@ -10321,6 +10363,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T15:53:51Z",
         "version": "2.21.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:57:34Z",
+        "version": "2.21.7"
       }
     ],
     "name": "Soundmap I Discover rare music",
@@ -10381,6 +10429,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:33:42Z",
         "version": "3.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:02:14Z",
+        "version": "3.3.0"
       }
     ],
     "name": "Save Recipes - Mr. Cook",
@@ -11083,6 +11137,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T21:20:01Z",
         "version": "4.3.92"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:11:58Z",
+        "version": "4.3.93"
       }
     ],
     "name": "DJ Rehab Mashups & Remixes",
@@ -11113,9 +11173,15 @@
         "mentions_duo": false,
         "released": "2026-11-04T17:32:57Z",
         "version": "1.0.71"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:51:44Z",
+        "version": "1.0.72"
       }
     ],
-    "name": "RecipeVault: Recipe Keeper",
+    "name": "RecipeVault: Recipe Saver",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -13842,6 +13908,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T12:07:38Z",
         "version": "0.10.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:42:55Z",
+        "version": "0.11.0"
       }
     ],
     "name": "Sonority for Sonos",
@@ -15663,6 +15735,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T20:08:15Z",
         "version": "6.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:54:10Z",
+        "version": "6.3"
       }
     ],
     "name": "Car Auto Play: Connect & Sync.",
@@ -16365,6 +16443,12 @@
         "mentions_duo": true,
         "released": "2026-11-12T20:49:11Z",
         "version": "4.12.13"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:14:33Z",
+        "version": "4.11.3"
       }
     ],
     "name": "PeakFinder",
@@ -17229,6 +17313,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T01:54:45Z",
         "version": "5.76.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T05:16:46Z",
+        "version": "5.76.2"
       }
     ],
     "name": "PictureThis - Plant Identifier",
@@ -17295,6 +17385,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T03:47:38Z",
         "version": "16.40.27608"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:26:05Z",
+        "version": "16.41.27708"
       }
     ],
     "name": "富途牛牛 - 實時報價 股票資訊 投資社區 AI投資分析工具",
@@ -17337,6 +17433,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:53:07Z",
         "version": "1.5.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T04:13:28Z",
+        "version": "1.6"
       }
     ],
     "name": "Agent Limbo: AI Coding",
@@ -17793,6 +17895,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T10:11:07Z",
         "version": "2.134.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:50:40Z",
+        "version": "2.135.0"
       }
     ],
     "name": "Bump - real life is happening",
@@ -18027,6 +18135,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T07:28:08Z",
         "version": "1.5.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:42:23Z",
+        "version": "1.5.1"
       }
     ],
     "name": "Lens AI & Reverse Image Search",
@@ -19173,6 +19287,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T23:19:59Z",
         "version": "25.5.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:48:14Z",
+        "version": "25.5.2"
       }
     ],
     "name": "Just a Baby: Become a parent",
@@ -19335,6 +19455,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T18:12:37Z",
         "version": "3.9.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:23:12Z",
+        "version": "3.9.3"
       }
     ],
     "name": "Legion Workforce Engagement",
@@ -19759,6 +19885,12 @@
         "mentions_duo": false,
         "released": "2026-11-22T18:17:59Z",
         "version": "4.19.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:53:30Z",
+        "version": "4.20.0"
       }
     ],
     "name": "Ro: Online Healthcare",
@@ -21633,6 +21765,12 @@
         "mentions_duo": false,
         "released": "2026-11-12T07:46:25Z",
         "version": "1.1.50"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:00:08Z",
+        "version": "1.1.59"
       }
     ],
     "name": "NBA 2K HQ",
@@ -23331,6 +23469,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T18:51:25Z",
         "version": "2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:44:33Z",
+        "version": "2.0.1"
       }
     ],
     "name": "FAR AIM",
@@ -24471,6 +24615,12 @@
         "mentions_duo": false,
         "released": "2026-10-30T13:45:00Z",
         "version": "8.0.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:15:22Z",
+        "version": "8.0.5"
       }
     ],
     "name": "Coloring Book for Adults.",
@@ -25492,11 +25642,17 @@
         "mentions_duo": false,
         "released": "2026-11-26T08:31:32Z",
         "version": "2.2"
+      },
+      {
+        "evidence": "support iPhone Duo",
+        "mentions_duo": true,
+        "released": "2026-11-27T02:44:51Z",
+        "version": "2.3"
       }
     ],
     "name": "SmartFolder",
-    "source": null,
-    "status": "unknown",
+    "source": "release_notes",
+    "status": "supported",
     "tag": "survey",
     "track_id": 6793352325
   },
@@ -26248,6 +26404,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T19:59:56Z",
         "version": "0.8.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:18:57Z",
+        "version": "0.8.1"
       }
     ],
     "name": "Dungeon Within",
@@ -26578,6 +26740,12 @@
         "mentions_duo": false,
         "released": "2026-11-04T13:11:53Z",
         "version": "3.2.23"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:02:27Z",
+        "version": "3.3.3"
       }
     ],
     "name": "Word Tiles GO",
@@ -26632,6 +26800,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T07:40:26Z",
         "version": "13.1.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:22:01Z",
+        "version": "13.2.0"
       }
     ],
     "name": "Color Block Jam",
@@ -27781,6 +27955,7 @@
         "version": "2.0.4"
       }
     ],
+    "missing": true,
     "name": "CARMA For Life",
     "source": null,
     "status": "unknown",
@@ -27989,6 +28164,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T02:06:04Z",
         "version": "8.11.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:05:15Z",
+        "version": "8.12.0"
       }
     ],
     "name": "Lazada | All Shipping On Us",
@@ -28935,9 +29116,15 @@
         "mentions_duo": false,
         "released": "2026-11-18T12:36:27Z",
         "version": "3.31.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:15:40Z",
+        "version": "3.31.3"
       }
     ],
-    "name": "Erudite Trivia: Spin the Brain",
+    "name": "Erudite: Brain Trivia Games",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -29110,6 +29297,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T10:05:07Z",
         "version": "17.10.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:02:12Z",
+        "version": "17.10.1"
       }
     ],
     "name": "Timeline Up!",
@@ -29260,6 +29453,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T19:12:55Z",
         "version": "7.10.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:50:06Z",
+        "version": "7.11.0"
       }
     ],
     "name": "I am - Daily Affirmations",
@@ -29338,6 +29537,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T16:14:37Z",
         "version": "7.10.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:48:58Z",
+        "version": "7.11.0"
       }
     ],
     "name": "Vocabulary - Learn words daily",
@@ -30785,6 +30990,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T18:33:52Z",
         "version": "2.4.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:51:41Z",
+        "version": "2.4.1"
       }
     ],
     "name": "Profit AI - Trading Assistant",
@@ -31895,6 +32106,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T10:33:14Z",
         "version": "0.111.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:09:58Z",
+        "version": "0.111.1"
       }
     ],
     "name": "Modern Warships: Naval Battles",
@@ -32057,6 +32274,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T01:40:04Z",
         "version": "1.2.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:10:04Z",
+        "version": "1.2.6"
       }
     ],
     "name": "SleepSense: Sleep Tracker",
@@ -32799,6 +33022,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T23:01:18Z",
         "version": "0.5.38"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:02:10Z",
+        "version": "0.5.39"
       }
     ],
     "name": "Milky Way: Cosmic Playground",
@@ -33806,6 +34035,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T11:01:38Z",
         "version": "43.7.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:05:50Z",
+        "version": "43.7.10"
       }
     ],
     "name": "Hair Challenge",
@@ -36092,6 +36327,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T18:36:17Z",
         "version": "1.6.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:28:51Z",
+        "version": "1.7.0"
       }
     ],
     "name": "Music Recognition- Song Finder",
@@ -36714,6 +36955,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T19:04:08Z",
         "version": "2.8.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:51:44Z",
+        "version": "2.8.1"
       }
     ],
     "name": "acubemy",
@@ -36912,6 +37159,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T06:39:34Z",
         "version": "1.0.82"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:21:21Z",
+        "version": "1.0.83"
       }
     ],
     "name": "Vimi: My Math Tutor",
@@ -36996,6 +37249,12 @@
         "mentions_duo": true,
         "released": "2026-11-26T19:58:54Z",
         "version": "15.27"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:16:34Z",
+        "version": "15.27.1"
       }
     ],
     "name": "Pickleball Drills & Guide",
@@ -39531,6 +39790,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T06:19:48Z",
         "version": "1.3.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:23:11Z",
+        "version": "1.4.0"
       }
     ],
     "name": "YayTalk: Learn & Speak English",
@@ -39676,6 +39941,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T01:33:19Z",
         "version": "1.3.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:43:33Z",
+        "version": "1.4.0"
       }
     ],
     "name": "AI Movie Maker - Filmit",
@@ -39694,6 +39965,12 @@
         "mentions_duo": false,
         "released": "2026-10-14T01:53:54Z",
         "version": "1.0.23"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:48:07Z",
+        "version": "1.0.24"
       }
     ],
     "name": "Weatherly:Forecast&Radar",
@@ -40672,6 +40949,12 @@
         "mentions_duo": true,
         "released": "2026-11-23T01:48:07Z",
         "version": "1.0.40"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:16:25Z",
+        "version": "1.0.41"
       }
     ],
     "name": "Provideo:Vlog & Video Maker",
@@ -40792,6 +41075,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T14:54:03Z",
         "version": "1.9.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:36:27Z",
+        "version": "1.10.0"
       }
     ],
     "name": "Song AI: AI Song Generator",
@@ -41512,6 +41801,12 @@
         "mentions_duo": false,
         "released": "2026-07-28T09:56:24Z",
         "version": "4.9.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:53:27Z",
+        "version": "4.9.15"
       }
     ],
     "name": "Monsters Gang - Crazy Fighting",
@@ -41800,6 +42095,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T07:57:18Z",
         "version": "5.22.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:28:03Z",
+        "version": "5.22.6"
       }
     ],
     "name": "Galaxy Attack: Alien Shooter",
@@ -42820,6 +43121,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T19:57:14Z",
         "version": "1.0.63"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:28:51Z",
+        "version": "1.0.64"
       }
     ],
     "name": "Flashback Trivia",
@@ -42868,6 +43175,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T19:58:24Z",
         "version": "1.0.19"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:30:04Z",
+        "version": "1.0.20"
       }
     ],
     "name": "TriviaPeak: Trivia Quiz Games",
@@ -46907,6 +47220,12 @@
         "mentions_duo": false,
         "released": "2026-09-23T07:26:32Z",
         "version": "7.24.44"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:07:49Z",
+        "version": "7.24.45"
       }
     ],
     "name": "Weather Live° - Local Forecast",
@@ -47027,9 +47346,15 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:14:42Z",
         "version": "2.4.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:51:57Z",
+        "version": "2.4.9"
       }
     ],
-    "name": "sQworble: Fun Crossword Puzzle",
+    "name": "sQworble: Crossword Scramble",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -48389,6 +48714,12 @@
         "mentions_duo": false,
         "released": "2026-08-11T14:08:35Z",
         "version": "6.0.62"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:06:58Z",
+        "version": "6.0.63"
       }
     ],
     "name": "Speak & Translate - Translator",
@@ -49594,6 +49925,12 @@
         "mentions_duo": false,
         "released": "2026-11-06T16:23:40Z",
         "version": "2.30.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T05:20:07Z",
+        "version": "2.30.1"
       }
     ],
     "name": "Premium Parking",
@@ -52522,6 +52859,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T11:48:00Z",
         "version": "1.0.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:58:34Z",
+        "version": "1.0.5"
       }
     ],
     "name": "Newsworthy: Calm News",
@@ -52952,9 +53295,15 @@
         "mentions_duo": false,
         "released": "2026-11-20T10:32:13Z",
         "version": "1.4.11"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:34:21Z",
+        "version": "1.4.12"
       }
     ],
-    "name": "PointsGPT",
+    "name": "PointsGPT: Award Flight Search",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -54363,6 +54712,12 @@
         "mentions_duo": true,
         "released": "2026-10-26T11:26:57Z",
         "version": "7.6.0"
+      },
+      {
+        "evidence": "Stock Signal: Stock signal is ready for iPhone Duo!  Improvements 1.Optmized onboarding process 2.Improved int",
+        "mentions_duo": true,
+        "released": "2026-11-27T11:44:02Z",
+        "version": "7.7.0"
       }
     ],
     "name": "Stock Signal: AI Stocks Watch",
@@ -55323,6 +55678,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T18:29:34Z",
         "version": "3.23"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:31:06Z",
+        "version": "3.24"
       }
     ],
     "name": "RemoTV: Universal TV Remote",
@@ -55425,6 +55786,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T04:22:01Z",
         "version": "3.07"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:03:29Z",
+        "version": "3.08"
       }
     ],
     "name": "Laudate - #1 Catholic App",
@@ -56739,6 +57106,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T18:23:33Z",
         "version": "5.0.28"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:31:57Z",
+        "version": "5.0.29"
       }
     ],
     "name": "Jigsawscapes® - Jigsaw Puzzles",
@@ -59099,6 +59472,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T21:17:33Z",
         "version": "2026.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:07:39Z",
+        "version": "2026.8.1"
       }
     ],
     "name": "HTTPBot: API & HTTP Client",
@@ -61454,6 +61833,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T12:07:44Z",
         "version": "1.1.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:12:47Z",
+        "version": "1.2.0"
       }
     ],
     "name": "BanG Dream! Our Notes",
@@ -61478,6 +61863,12 @@
         "mentions_duo": true,
         "released": "2026-11-06T16:58:16Z",
         "version": "0.12.20"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T19:02:42Z",
+        "version": "0.12.26"
       }
     ],
     "name": "Readest - eBook Reader",
@@ -62276,6 +62667,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T23:22:14Z",
         "version": "2623.0.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:58:03Z",
+        "version": "2623.1.0"
       }
     ],
     "name": "Bubble Pop! Puzzle Game Legend",
@@ -62312,6 +62709,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T14:00:52Z",
         "version": "2622.1.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:31:24Z",
+        "version": "2623.0.1"
       }
     ],
     "name": "Jewels Magic: Mystery Match3",
@@ -62348,6 +62751,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T02:12:12Z",
         "version": "2623.1.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:36:47Z",
+        "version": "2624.0.0"
       }
     ],
     "name": "Word Cookies!®",
@@ -63524,6 +63933,12 @@
         "mentions_duo": false,
         "released": "2026-11-15T17:08:21Z",
         "version": "2.4.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:25:07Z",
+        "version": "2.5.1"
       }
     ],
     "name": "Block Buster - No Timer",
@@ -63614,6 +64029,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T02:35:15Z",
         "version": "7.6.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:25:08Z",
+        "version": "7.6.6"
       }
     ],
     "name": "Block Blast！",
@@ -64784,6 +65205,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T07:22:26Z",
         "version": "3.0.124"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:49:43Z",
+        "version": "3.0.126"
       }
     ],
     "name": "Bookclubs: Organize & Connect",
@@ -64874,6 +65301,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T22:18:57Z",
         "version": "71.7.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:06:09Z",
+        "version": "71.7.3"
       }
     ],
     "name": "Booking.com: Hotels & Travel",
@@ -66699,6 +67132,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T07:19:58Z",
         "version": "1.35.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:03:06Z",
+        "version": "1.35.1"
       }
     ],
     "name": "Drop Away: Color Puzzle",
@@ -67107,6 +67546,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T20:59:22Z",
         "version": "2.3.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:22:17Z",
+        "version": "2.3.9"
       }
     ],
     "name": "Barebone - AI Stock Research",
@@ -69759,6 +70204,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T12:27:43Z",
         "version": "5.1.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:43:44Z",
+        "version": "5.1.5"
       }
     ],
     "name": "SLO: Speed Camera Radar",
@@ -70077,6 +70528,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T21:35:30Z",
         "version": "2.0.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:00:07Z",
+        "version": "2.0.9"
       }
     ],
     "name": "Callie: Make Gifting Unique",
@@ -70191,6 +70648,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T02:36:45Z",
         "version": "1.3.882"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T05:57:54Z",
+        "version": "1.3.883"
       }
     ],
     "name": "Age of Origins:Tower Defense",
@@ -70432,6 +70895,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T09:18:53Z",
         "version": "8.16.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T15:38:06Z",
+        "version": "8.17.0"
       }
     ],
     "name": "Camfrog: Live Video Chat Rooms",
@@ -71983,6 +72452,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T07:01:04Z",
         "version": "1.8.64"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:45:37Z",
+        "version": "1.8.65"
       }
     ],
     "name": "Buzzy Party: Chat & Games",
@@ -72968,6 +73443,12 @@
         "mentions_duo": true,
         "released": "2026-11-22T15:04:12Z",
         "version": "26.11.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:39:37Z",
+        "version": "26.11.6"
       }
     ],
     "name": "Mahjong Trainer: Learn & Win",
@@ -73202,6 +73683,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T02:07:33Z",
         "version": "1.7.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:54:52Z",
+        "version": "1.7.5"
       }
     ],
     "name": "FlipArtify - 2D Draw Animation",
@@ -73808,6 +74295,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T18:40:07Z",
         "version": "8.8.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:49:31Z",
+        "version": "8.8.1"
       }
     ],
     "name": "Lera: Livros Story & Audiobook",
@@ -74672,6 +75165,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T21:07:26Z",
         "version": "4.10.39"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:39:44Z",
+        "version": "4.10.40"
       }
     ],
     "name": "Chess.com - Play and Learn",
@@ -74702,6 +75201,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:10:03Z",
         "version": "11.0.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:59:31Z",
+        "version": "11.0.4"
       }
     ],
     "name": "Chess for Kids: Learn to Play",
@@ -76550,6 +77055,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T21:28:49Z",
         "version": "1.11.18"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:12:35Z",
+        "version": "1.11.20"
       }
     ],
     "name": "ckbk: discover great cookbooks",
@@ -76838,6 +77349,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T21:00:32Z",
         "version": "10.32.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:00:51Z",
+        "version": "10.33.0"
       }
     ],
     "name": "ClassPass: Fitness, Spa, Salon",
@@ -77720,6 +78237,12 @@
         "mentions_duo": false,
         "released": "2026-11-04T21:54:48Z",
         "version": "2.5.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:36:13Z",
+        "version": "2.6.1"
       }
     ],
     "name": "Window Garden - Lofi Idle Game",
@@ -77978,6 +78501,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T23:52:30Z",
         "version": "4.9.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:59:37Z",
+        "version": "4.9.3"
       }
     ],
     "name": "Piano Tiles 2™: Fun Piano Game",
@@ -78519,6 +79048,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T14:28:25Z",
         "version": "2.2.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:15:40Z",
+        "version": "2.2.8"
       }
     ],
     "name": "IQ Masters: Brain Games, Tests",
@@ -78939,6 +79474,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T08:10:57Z",
         "version": "1.46.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:03:03Z",
+        "version": "1.46.1"
       }
     ],
     "name": "CoinIn: Coin Scan Identifier",
@@ -79515,6 +80056,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T02:00:05Z",
         "version": "9.4.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:00:26Z",
+        "version": "9.4.1"
       }
     ],
     "name": "Summoners War",
@@ -79653,6 +80200,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T18:45:48Z",
         "version": "1.61.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:03:58Z",
+        "version": "1.62.0"
       }
     ],
     "name": "Yarn Loop: Knit Puzzle",
@@ -81082,6 +81635,12 @@
         "mentions_duo": false,
         "released": "2026-11-06T19:35:27Z",
         "version": "6.9.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T04:38:57Z",
+        "version": "6.9.1"
       }
     ],
     "name": "Copart - Online Auto Auctions",
@@ -82715,11 +83274,17 @@
         "mentions_duo": false,
         "released": "2026-10-20T19:10:14Z",
         "version": "1.12.2"
+      },
+      {
+        "evidence": "atural.  We've also refined the experience specifically for iPhone Duo. Gallery layouts, navigation, and dialogs now better adapt",
+        "mentions_duo": true,
+        "released": "2026-11-27T14:21:29Z",
+        "version": "1.13.0"
       }
     ],
     "name": "Colors by Number® – No.Draw®",
-    "source": null,
-    "status": "unknown",
+    "source": "release_notes",
+    "status": "supported",
     "tag": "survey",
     "track_id": 1317690198
   },
@@ -84245,6 +84810,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T01:52:13Z",
         "version": "8.61.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:42:19Z",
+        "version": "8.61.2"
       }
     ],
     "name": "Trip.com: Book Flights, Hotels",
@@ -85642,6 +86213,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T07:08:41Z",
         "version": "31.0.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:41:45Z",
+        "version": "31.0.1"
       }
     ],
     "name": "Gecko Out",
@@ -86362,6 +86939,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T05:02:36Z",
         "version": "15.4.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:12:15Z",
+        "version": "15.5.0"
       }
     ],
     "name": "VLLO - AI Video Editor",
@@ -87983,6 +88566,12 @@
         "mentions_duo": true,
         "released": "2026-11-25T23:00:05Z",
         "version": "1.66.17"
+      },
+      {
+        "evidence": "ng more markets, and we're just getting started! - Fixes on iPhone Duo for a smoother experience with fewer crashes. - A refreshed",
+        "mentions_duo": true,
+        "released": "2026-11-27T00:50:22Z",
+        "version": "1.67.0"
       }
     ],
     "name": "DealSeek: Coupons & Discounts",
@@ -88037,6 +88626,12 @@
         "mentions_duo": true,
         "released": "2026-11-09T17:03:47Z",
         "version": "3.6.11"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:50:16Z",
+        "version": "3.6.12"
       }
     ],
     "name": "DeckTradr",
@@ -88314,6 +88909,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T09:33:17Z",
         "version": "2.9.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:25:35Z",
+        "version": "2.10.0"
       }
     ],
     "name": "DeepSeek - AI Assistant",
@@ -88908,6 +89509,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T02:17:56Z",
         "version": "1.9.73"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:45:14Z",
+        "version": "1.9.75"
       }
     ],
     "name": "Petlibro",
@@ -89598,6 +90205,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T06:39:20Z",
         "version": "14.411"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:37:50Z",
+        "version": "14.501"
       }
     ],
     "name": "CookieRun: OvenBreak",
@@ -90042,6 +90655,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T13:06:42Z",
         "version": "7.7.16"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:23:10Z",
+        "version": "7.7.17"
       }
     ],
     "name": "DiDi Rider: Affordable rides",
@@ -91837,6 +92456,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T10:39:50Z",
         "version": "2.12.12"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:30:04Z",
+        "version": "2.13.0"
       }
     ],
     "name": "DJI Mimo",
@@ -94519,6 +95144,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T13:25:35Z",
         "version": "2.138.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:34:42Z",
+        "version": "2.139.0"
       }
     ],
     "name": "Clever: Brain Training Games",
@@ -94981,6 +95612,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T00:22:27Z",
         "version": "2.6.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:32:12Z",
+        "version": "2.7.0"
       }
     ],
     "name": "Artrace: AR Drawing & Sketch",
@@ -95017,6 +95654,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T20:24:53Z",
         "version": "1.0.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:47:56Z",
+        "version": "1.0.8"
       }
     ],
     "name": "Balance Trainer: Stop Falls",
@@ -96404,6 +97047,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T05:21:51Z",
         "version": "4.29.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:55:31Z",
+        "version": "4.30.0"
       }
     ],
     "name": "TeraBox: 1TB Cloud & AI Space",
@@ -97500,6 +98149,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T15:15:02Z",
         "version": "2.13.33"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:37:24Z",
+        "version": "2.13.34"
       }
     ],
     "name": "Haven - Bible Chat",
@@ -98286,6 +98941,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T15:03:02Z",
         "version": "3.18.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:48:47Z",
+        "version": "3.20.0"
       }
     ],
     "name": "Race Master 3D: Car Racing",
@@ -98412,6 +99073,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T18:49:29Z",
         "version": "13.22.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:00:34Z",
+        "version": "13.22.3"
       }
     ],
     "name": "Rakuten: Cash Back & Deals",
@@ -99648,6 +100315,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T06:50:53Z",
         "version": "5.1.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:58:12Z",
+        "version": "5.1.1"
       }
     ],
     "name": "Temu: Shop Like a Billionaire",
@@ -100339,6 +101012,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T17:54:17Z",
         "version": "9.31.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:47:05Z",
+        "version": "9.31.2"
       }
     ],
     "name": "Hume Health",
@@ -100525,6 +101204,12 @@
         "mentions_duo": false,
         "released": "2026-11-09T20:32:01Z",
         "version": "5.0.30"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T19:56:50Z",
+        "version": "5.0.31"
       }
     ],
     "name": "El Nuevo Día",
@@ -101035,6 +101720,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T19:28:41Z",
         "version": "7.123.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:15:19Z",
+        "version": "7.124.0"
       }
     ],
     "name": "Tilt: Cash Advance & Credit",
@@ -103549,6 +104240,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T22:21:13Z",
         "version": "72.19.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:16:22Z",
+        "version": "72.19.2"
       }
     ],
     "name": "Evite: Party Invitation Maker",
@@ -103831,6 +104528,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T22:31:10Z",
         "version": "11.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:06:50Z",
+        "version": "12"
       }
     ],
     "name": "Blood Pressure Tracker SmartBP",
@@ -108441,6 +109144,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T09:22:25Z",
         "version": "2.3.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:19:01Z",
+        "version": "2.3.31"
       }
     ],
     "name": "Finimize: Investing Insights",
@@ -109641,6 +110350,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T12:52:37Z",
         "version": "1.44.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:28:37Z",
+        "version": "1.44.4"
       }
     ],
     "name": "Overgeared Hero: Merge RPG",
@@ -110257,6 +110972,12 @@
         "mentions_duo": false,
         "released": "2026-11-15T20:48:45Z",
         "version": "1.0.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:52:07Z",
+        "version": "1.0.7"
       }
     ],
     "name": "Flightsy: AI Flight Tracker",
@@ -111067,6 +111788,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T11:14:59Z",
         "version": "939"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:56:11Z",
+        "version": "945"
       }
     ],
     "name": "Smash Fest!",
@@ -111367,6 +112094,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T14:13:51Z",
         "version": "8.1.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:26:35Z",
+        "version": "8.1.6"
       }
     ],
     "name": "Noteshelf: AI Notes & PDF",
@@ -111949,6 +112682,12 @@
         "mentions_duo": false,
         "released": "2026-11-09T01:58:47Z",
         "version": "1.2.82"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:38:29Z",
+        "version": "1.2.83"
       }
     ],
     "name": "Calo: AI Food Calorie Counter",
@@ -112483,6 +113222,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T09:05:46Z",
         "version": "9.106.13"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:19:14Z",
+        "version": "9.106.14"
       }
     ],
     "name": "Forma Pilates",
@@ -113065,6 +113810,12 @@
         "mentions_duo": false,
         "released": "2026-11-04T17:23:42Z",
         "version": "3.16.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:33:17Z",
+        "version": "3.17.0"
       }
     ],
     "name": "FOX Weather: Daily Forecasts",
@@ -113777,6 +114528,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T01:59:04Z",
         "version": "3.52.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:25:17Z",
+        "version": "3.53.0"
       }
     ],
     "name": "Freenotes®: AI Notes Taking",
@@ -114581,6 +115338,12 @@
         "mentions_duo": false,
         "released": "2026-11-16T18:10:51Z",
         "version": "1.7.05"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:11:18Z",
+        "version": "1.7.06"
       }
     ],
     "name": "Endless Puncher",
@@ -114683,6 +115446,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T13:51:07Z",
         "version": "5.10.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:43:57Z",
+        "version": "5.10.9"
       }
     ],
     "name": "Words of Wonders: Crossword",
@@ -114929,6 +115698,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T15:13:07Z",
         "version": "30.2.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:11:26Z",
+        "version": "30.2.6"
       }
     ],
     "name": "Text or Die",
@@ -115403,6 +116178,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T19:48:47Z",
         "version": "7.7.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:03:50Z",
+        "version": "7.8.0"
       }
     ],
     "name": "Zooba: Zoo Battle Royale Games",
@@ -115511,6 +116292,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T11:28:52Z",
         "version": "4.14.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:05:00Z",
+        "version": "4.14.1"
       }
     ],
     "name": "Block Craft 3D: Building Games",
@@ -115757,6 +116544,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T22:19:51Z",
         "version": "5.4.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:06:52Z",
+        "version": "5.4.1"
       }
     ],
     "name": "Phone Case DIY",
@@ -116597,6 +117390,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T13:43:15Z",
         "version": "3.29.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:56:25Z",
+        "version": "3.30.0"
       }
     ],
     "name": "TopTop: Games&Chat",
@@ -117089,6 +117888,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T19:36:22Z",
         "version": "6.4.40"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T05:44:51Z",
+        "version": "6.4.50"
       }
     ],
     "name": "Hexa Sort",
@@ -118045,6 +118850,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T20:21:15Z",
         "version": "7.12.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:04:41Z",
+        "version": "7.13.0"
       }
     ],
     "name": "Match 3D Saga",
@@ -118807,6 +119618,12 @@
         "mentions_duo": false,
         "released": "2026-11-04T01:05:34Z",
         "version": "1.3.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:39:50Z",
+        "version": "1.4.0"
       }
     ],
     "name": "Window Seat: Offline Games",
@@ -118957,6 +119774,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T08:06:33Z",
         "version": "7.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:38:53Z",
+        "version": "7.2.1"
       }
     ],
     "name": "Garage Ringtones for iPhone",
@@ -121024,6 +121847,12 @@
         "mentions_duo": false,
         "released": "2026-11-04T21:46:28Z",
         "version": "1.3.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:34:30Z",
+        "version": "1.3.7"
       }
     ],
     "name": "JetBack – Flight Price Savings",
@@ -121576,6 +122405,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T01:58:31Z",
         "version": "128.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:19:13Z",
+        "version": "128.2"
       }
     ],
     "name": "GFL Gridiron Football",
@@ -122584,6 +123419,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T21:58:15Z",
         "version": "2.2.112"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:05:16Z",
+        "version": "2.2.114"
       }
     ],
     "name": "Classic Solitaire．",
@@ -123088,6 +123929,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T18:06:38Z",
         "version": "4.254.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:07:38Z",
+        "version": "4.255.0"
       }
     ],
     "name": "Globoplay: Novelas, séries e +",
@@ -127620,6 +128467,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T16:55:36Z",
         "version": "1.16.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:40:02Z",
+        "version": "1.16.5"
       }
     ],
     "name": "Granola - AI Meeting Notes",
@@ -128112,6 +128965,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T20:56:36Z",
         "version": "1.1.48"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:51:48Z",
+        "version": "1.1.52"
       }
     ],
     "name": "mise - meal planner",
@@ -129596,6 +130455,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T15:36:34Z",
         "version": "2.18.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T19:40:05Z",
+        "version": "2.18.4"
       }
     ],
     "name": "Liftoff - Ranked Gym Workouts",
@@ -130269,6 +131134,12 @@
         "mentions_duo": false,
         "released": "2026-11-16T07:16:55Z",
         "version": "1.0.18"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:57:37Z",
+        "version": "1.0.19"
       }
     ],
     "name": "Clash - Rule Based Proxy",
@@ -131241,6 +132112,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T19:06:10Z",
         "version": "5.6.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:16:40Z",
+        "version": "5.6.7"
       }
     ],
     "name": "Listful - Wishlist Maker",
@@ -131457,6 +132334,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T07:01:45Z",
         "version": "1.2.11"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:40:31Z",
+        "version": "1.2.12"
       }
     ],
     "name": "HarkNote: Transcribe Offline",
@@ -133299,6 +134182,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T08:42:51Z",
         "version": "4.7.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:32:11Z",
+        "version": "4.8.0"
       }
     ],
     "name": "Slime Legion",
@@ -134275,6 +135164,12 @@
         "mentions_duo": false,
         "released": "2026-08-07T09:26:17Z",
         "version": "1.15.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:57:26Z",
+        "version": "1.15.8"
       }
     ],
     "name": "Goods Master 3D: Matching Game",
@@ -134341,6 +135236,12 @@
         "mentions_duo": false,
         "released": "2026-11-06T01:30:00Z",
         "version": "1.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:37:15Z",
+        "version": "1.2"
       }
     ],
     "name": "AltoPaint: Oil & Watercolor",
@@ -135380,6 +136281,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T15:12:00Z",
         "version": "4.14.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:10:41Z",
+        "version": "4.14.1"
       }
     ],
     "name": "Holafly eSIM: Unlimited Data",
@@ -135614,6 +136521,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T04:59:10Z",
         "version": "0.0.995"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:53:30Z",
+        "version": "0.0.1010"
       }
     ],
     "name": "Hollywood Merge",
@@ -135848,6 +136761,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T13:44:33Z",
         "version": "2.0.27"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T04:39:53Z",
+        "version": "2.0.28"
       }
     ],
     "name": "Homebody: Better Renting",
@@ -138637,6 +139556,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T06:51:53Z",
         "version": "1.502"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:30:06Z",
+        "version": "1.503"
       }
     ],
     "name": "Raid Rush: Tower Defense TD",
@@ -139855,6 +140780,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T19:56:03Z",
         "version": "26.54"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T19:17:27Z",
+        "version": "26.55"
       }
     ],
     "name": "Home Planner AI：Room Design 3D",
@@ -140815,6 +141746,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T02:44:06Z",
         "version": "1.86.14"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:04:20Z",
+        "version": "1.90.5"
       }
     ],
     "name": "Mahjong Crush: Sorting Jam",
@@ -141620,6 +142557,12 @@
         "mentions_duo": false,
         "released": "2026-11-12T08:52:52Z",
         "version": "26.1101.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:14:37Z",
+        "version": "26.1102.1"
       }
     ],
     "name": "Rise of Castles: Fire and War",
@@ -142412,6 +143355,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T15:40:38Z",
         "version": "5.8.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:54:59Z",
+        "version": "5.8.6"
       }
     ],
     "name": "EcoGPT",
@@ -144265,6 +145214,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T14:26:08Z",
         "version": "9.67.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:21:44Z",
+        "version": "9.67.2"
       }
     ],
     "name": "Instinct: Casual Dating App",
@@ -145513,6 +146468,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T03:22:11Z",
         "version": "2.8.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:48:28Z",
+        "version": "2.8.8"
       }
     ],
     "name": "Piano Marvel - Lessons & Music",
@@ -147373,9 +148334,15 @@
         "mentions_duo": false,
         "released": "2026-10-06T13:14:04Z",
         "version": "1.45"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:00:08Z",
+        "version": "1.46"
       }
     ],
-    "name": "Pro Snooker & Pool 2026",
+    "name": "Pro Snooker & Pool 2027",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -148885,6 +149852,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T22:19:18Z",
         "version": "1.7.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:05:58Z",
+        "version": "1.7.3"
       }
     ],
     "name": "Mythic GME Mobile",
@@ -150044,6 +151017,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T02:58:12Z",
         "version": "14.10.30"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:47:45Z",
+        "version": "14.10.40"
       }
     ],
     "name": "快手",
@@ -150488,6 +151467,12 @@
         "mentions_duo": false,
         "released": "2023-05-12T10:54:04Z",
         "version": "2.3.10"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:38:46Z",
+        "version": "2.3.11"
       }
     ],
     "name": "V2er - Best client for V2EX",
@@ -153820,6 +154805,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T01:04:09Z",
         "version": "2.25.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:07:21Z",
+        "version": "2.25.3"
       }
     ],
     "name": "Tabelog - Food Guide in Japan",
@@ -154462,6 +155453,12 @@
         "mentions_duo": false,
         "released": "2026-09-25T18:10:07Z",
         "version": "017"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:45:04Z",
+        "version": "022"
       }
     ],
     "name": "Slow Mo Strike: Knives in Time",
@@ -157445,6 +158442,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T20:24:53Z",
         "version": "4.6.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:49:08Z",
+        "version": "4.7.0"
       }
     ],
     "name": "Knowt: AI Flashcards & Notes",
@@ -159859,6 +160862,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T22:31:06Z",
         "version": "1.4.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:12:01Z",
+        "version": "1.4.7"
       }
     ],
     "name": "Lasta Fit: Your Wellness Coach",
@@ -160111,6 +161120,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T22:05:57Z",
         "version": "1.0.27"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:33:04Z",
+        "version": "1.0.28"
       }
     ],
     "name": "Fitty: AI Virtual Try-On",
@@ -160951,6 +161966,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T04:37:39Z",
         "version": "1.4.17"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:21:52Z",
+        "version": "1.4.18"
       }
     ],
     "name": "Search It - Hidden Objects",
@@ -165961,6 +166982,12 @@
         "mentions_duo": false,
         "released": "2026-11-12T20:27:29Z",
         "version": "2026.11.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:13:11Z",
+        "version": "2026.11.4"
       }
     ],
     "name": "GoTo",
@@ -167305,6 +168332,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T14:37:58Z",
         "version": "2.2.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:48:40Z",
+        "version": "2.2.8"
       }
     ],
     "name": "Ball of Ages",
@@ -167870,6 +168903,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T16:14:01Z",
         "version": "10.20.114"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T05:30:03Z",
+        "version": "10.20.117"
       }
     ],
     "name": "Lumosity: Brain Training Games",
@@ -168110,6 +169149,12 @@
         "mentions_duo": false,
         "released": "2026-10-16T13:54:13Z",
         "version": "45.0.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:04:12Z",
+        "version": "45.0.3"
       }
     ],
     "name": "Themie: Wallpapers & Theme",
@@ -169533,6 +170578,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:18:25Z",
         "version": "2.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:06:37Z",
+        "version": "2.3.0"
       }
     ],
     "name": "Make It Fit - Packing Puzzle",
@@ -173163,6 +174214,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T18:37:41Z",
         "version": "1.226249.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:04:12Z",
+        "version": "1.226374.0"
       }
     ],
     "name": "Solitaire TriPeaks Journey",
@@ -174424,6 +175481,12 @@
         "mentions_duo": true,
         "released": "2026-11-25T07:09:51Z",
         "version": "12.69.410"
+      },
+      {
+        "evidence": "Now optimized for iPhone Duo — Better life starts here.  [Widgets] The Delivery widget h",
+        "mentions_duo": true,
+        "released": "2026-11-27T02:13:01Z",
+        "version": "12.70.202"
       }
     ],
     "name": "Meituan-Eat Better,Live Better",
@@ -175589,6 +176652,12 @@
         "mentions_duo": false,
         "released": "2021-12-08T17:42:08Z",
         "version": "2.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:10:09Z",
+        "version": "2.9"
       }
     ],
     "name": "Mortgage Calculator™",
@@ -178835,6 +179904,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T22:09:14Z",
         "version": "5.5.17"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:11:10Z",
+        "version": "5.5.18"
       }
     ],
     "name": "Offtrack: AI DJ Song Mixer",
@@ -179441,6 +180516,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T10:27:18Z",
         "version": "1.3.116"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:33:03Z",
+        "version": "1.3.117"
       }
     ],
     "name": "MonoBoost Cancel Subscriptions",
@@ -181686,6 +182767,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T16:13:13Z",
         "version": "7.10.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:52:28Z",
+        "version": "7.11.0"
       }
     ],
     "name": "Bible Widgets: Verses & Prayer",
@@ -182172,6 +183259,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T22:31:14Z",
         "version": "2.6.70"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T00:55:31Z",
+        "version": "2.6.71"
       }
     ],
     "name": "Ludo Club・Fun Dice Board Game",
@@ -182256,6 +183349,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T04:56:07Z",
         "version": "3.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:48:04Z",
+        "version": "3.2.1"
       }
     ],
     "name": "Kimi - Your Personal AI Agent",
@@ -182442,6 +183541,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T01:44:20Z",
         "version": "26.1103.001"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:54:12Z",
+        "version": "26.1104.001"
       }
     ],
     "name": "Last Shelter: War Z",
@@ -183348,6 +184453,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T22:34:34Z",
         "version": "1.28"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:11:18Z",
+        "version": "1.30"
       }
     ],
     "name": "MSK Sono: Ultrasound Guide",
@@ -184278,6 +185389,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T03:15:27Z",
         "version": "2.7.61"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T00:54:52Z",
+        "version": "2.7.63"
       }
     ],
     "name": "Quabble: Daily Mental Health",
@@ -184488,6 +185605,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T13:52:57Z",
         "version": "6.3.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:58:17Z",
+        "version": "6.3.5"
       }
     ],
     "name": "Chord ai - Play any song!",
@@ -186457,6 +187580,12 @@
         "mentions_duo": false,
         "released": "2026-11-12T08:19:51Z",
         "version": "1.50.10"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:47:39Z",
+        "version": "1.51.0"
       }
     ],
     "name": "Chef Friends: Cooking Game",
@@ -188245,6 +189374,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T02:05:49Z",
         "version": "1.2.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:23:46Z",
+        "version": "1.2.4"
       }
     ],
     "name": "GOGO! Blast",
@@ -188341,6 +189476,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T02:26:01Z",
         "version": "2.2.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:26:41Z",
+        "version": "2.2.8"
       }
     ],
     "name": "Mahjong Blast",
@@ -188461,6 +189602,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T02:04:27Z",
         "version": "1.4.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:18:15Z",
+        "version": "1.4.3"
       }
     ],
     "name": "Tap Tile!",
@@ -188545,6 +189692,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T07:11:58Z",
         "version": "1.2.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:05:36Z",
+        "version": "1.2.2"
       }
     ],
     "name": "Zoodoku！",
@@ -189295,6 +190448,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T02:43:52Z",
         "version": "11.3.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:08:38Z",
+        "version": "11.4.0"
       }
     ],
     "name": "UU加速器-不止快 还很稳",
@@ -189541,6 +190700,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T11:54:56Z",
         "version": "4.48.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:38:12Z",
+        "version": "4.49.0"
       }
     ],
     "name": "UU远程-流畅可靠，就是好用！",
@@ -190063,6 +191228,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T11:32:25Z",
         "version": "2.4.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:01:18Z",
+        "version": "2.4.3"
       }
     ],
     "name": "The Seven Deadly Sins: Origin",
@@ -192019,11 +193190,17 @@
         "mentions_duo": false,
         "released": "2026-11-10T14:40:13Z",
         "version": "6.12.3"
+      },
+      {
+        "evidence": "imized the app for a wider range of screen sizes, including iPhone DUO ● Go Added last train times and arrival times to transit di",
+        "mentions_duo": true,
+        "released": "2026-11-27T10:48:04Z",
+        "version": "6.13.0"
       }
     ],
     "name": "NAVER Maps, Navigation",
-    "source": null,
-    "status": "unknown",
+    "source": "release_notes",
+    "status": "supported",
     "tag": "survey",
     "track_id": 311867728
   },
@@ -192055,6 +193232,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T07:41:34Z",
         "version": "31.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T00:29:14Z",
+        "version": "31.2.1"
       }
     ],
     "name": "BAND - App for all groups",
@@ -193208,6 +194391,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T00:04:00Z",
         "version": "12.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:25:00Z",
+        "version": "13"
       }
     ],
     "name": "Stay On Target 1138",
@@ -193670,6 +194859,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T07:41:57Z",
         "version": "4.62"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:45:01Z",
+        "version": "4.65"
       }
     ],
     "name": "Crossword Challenge",
@@ -193780,6 +194975,7 @@
         "version": "1.1.4"
       }
     ],
+    "missing": true,
     "name": "Noisli",
     "source": null,
     "status": "unknown",
@@ -194067,6 +195263,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T20:04:39Z",
         "version": "5.261119"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:03:03Z",
+        "version": "5.261125"
       }
     ],
     "name": "noon Shopping, Food, Grocery",
@@ -194793,6 +195995,12 @@
         "mentions_duo": false,
         "released": "2026-10-29T02:06:10Z",
         "version": "1.2.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:23:55Z",
+        "version": "1.3.0"
       }
     ],
     "name": "NovelSpark - Read Good Stories",
@@ -196047,6 +197255,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T21:31:44Z",
         "version": "1.10.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:09:02Z",
+        "version": "1.11.0"
       }
     ],
     "name": "Connect Tracks: Logic Puzzle",
@@ -196851,6 +198065,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T13:30:52Z",
         "version": "5.0.39"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:11:44Z",
+        "version": "5.0.40"
       }
     ],
     "name": "Anker soundcore",
@@ -197500,6 +198720,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T01:19:59Z",
         "version": "2.7.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:48:53Z",
+        "version": "2.7.4"
       }
     ],
     "name": "Piggy Kingdom - Match 3 Games",
@@ -197722,6 +198948,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T13:19:35Z",
         "version": "1.2.11"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:25:13Z",
+        "version": "1.2.12"
       }
     ],
     "name": "Car Parking Multiplayer 2",
@@ -197990,6 +199222,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T18:21:42Z",
         "version": "1.7.30"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:00:22Z",
+        "version": "1.7.31"
       }
     ],
     "name": "Audiobook Unlimited to eReader",
@@ -198278,6 +199516,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T20:24:00Z",
         "version": "8.5.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:19:21Z",
+        "version": "8.5.9"
       }
     ],
     "name": "Workout for Women: Home & Gym",
@@ -200510,6 +201754,12 @@
         "mentions_duo": false,
         "released": "2026-10-19T10:44:31Z",
         "version": "26.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:51:38Z",
+        "version": "26.6"
       }
     ],
     "name": "My Talking Hank: Islands",
@@ -200918,6 +202168,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T23:47:48Z",
         "version": "3.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:31:37Z",
+        "version": "3.2.2"
       }
     ],
     "name": "Pinu – Language Learning",
@@ -203355,6 +204611,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T15:33:13Z",
         "version": "3.2.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:46:08Z",
+        "version": "3.3.0"
       }
     ],
     "name": "QR Code Reader: Scanner App.",
@@ -203577,6 +204839,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T06:11:44Z",
         "version": "0.0.21"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:33:21Z",
+        "version": "0.0.22"
       }
     ],
     "name": "PatrolNav GPS",
@@ -203787,6 +205055,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T21:00:15Z",
         "version": "1.36.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:27:22Z",
+        "version": "1.37.0"
       }
     ],
     "name": "Pawp: 24/7 Vet & Pet Care",
@@ -206538,6 +207812,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T10:26:49Z",
         "version": "1.0.75"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:04:10Z",
+        "version": "1.0.76"
       }
     ],
     "name": "Last Asylum: Plague",
@@ -206694,6 +207974,12 @@
         "mentions_duo": false,
         "released": "2026-11-12T12:31:28Z",
         "version": "1.6.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:35:26Z",
+        "version": "1.6.2"
       }
     ],
     "name": "Picture Blast Solitaire",
@@ -208471,6 +209757,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T22:45:17Z",
         "version": "4.92"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:07:23Z",
+        "version": "4.93"
       }
     ],
     "name": "Daily Planner, To-Do List",
@@ -208867,6 +210159,12 @@
         "mentions_duo": false,
         "released": "2026-11-16T23:07:34Z",
         "version": "2.081"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:40:16Z",
+        "version": "2.084"
       }
     ],
     "name": "Word Collect : Word Search",
@@ -209521,6 +210819,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T09:40:23Z",
         "version": "1.2.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:52:54Z",
+        "version": "1.2.8"
       }
     ],
     "name": "Don't Starve Together",
@@ -209815,6 +211119,12 @@
         "mentions_duo": false,
         "released": "2026-10-08T02:49:01Z",
         "version": "1.5.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:41:38Z",
+        "version": "1.6.0"
       }
     ],
     "name": "Victory Blast Casino",
@@ -210265,6 +211575,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T15:22:25Z",
         "version": "2.3.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:44:21Z",
+        "version": "2.3.2"
       }
     ],
     "name": "My Supermarket Simulator 3D®",
@@ -211183,6 +212499,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T08:02:55Z",
         "version": "2.10.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:22:58Z",
+        "version": "2.11.1"
       }
     ],
     "name": "Phone Storage Cleaner: Free up",
@@ -211411,6 +212733,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T08:17:17Z",
         "version": "2.55.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:21:00Z",
+        "version": "2.56.0"
       }
     ],
     "name": "‎AI Remodel — Interior Design",
@@ -213542,6 +214870,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T22:25:51Z",
         "version": "1.113.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:10:17Z",
+        "version": "1.114.0"
       }
     ],
     "name": "Premom-Ovulation Tracker, PCOS",
@@ -213740,6 +215074,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T12:38:44Z",
         "version": "1.40.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:22:37Z",
+        "version": "1.40.1"
       }
     ],
     "name": "GIO - Photo & Video Generator",
@@ -214293,6 +215633,12 @@
         "mentions_duo": true,
         "released": "2026-11-24T05:06:54Z",
         "version": "7.5.3"
+      },
+      {
+        "evidence": "iPhone Duo support: Enjoy an optimized app experience on iPhone Duo. P",
+        "mentions_duo": true,
+        "released": "2026-11-27T04:41:01Z",
+        "version": "7.5.4"
       }
     ],
     "name": "WomanLog Pro Calendar",
@@ -214353,6 +215699,12 @@
         "mentions_duo": true,
         "released": "2026-11-03T22:53:54Z",
         "version": "9.9.13"
+      },
+      {
+        "evidence": "Built by Anglers for Anglers. November Updates: iPhone Duo. Catch map privacy, Depth & Navigation Charts. How To Video",
+        "mentions_duo": true,
+        "released": "2026-11-27T15:24:55Z",
+        "version": "9.9.14"
       }
     ],
     "name": "Fishing App - Pro Angler",
@@ -216243,6 +217595,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T08:02:36Z",
         "version": "10.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:48:51Z",
+        "version": "10.8"
       }
     ],
     "name": "Fruit Merge™: Match Game",
@@ -216471,6 +217829,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T22:48:10Z",
         "version": "2624.0.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T15:21:45Z",
+        "version": "2624.1.1"
       }
     ],
     "name": "Bubble Pop Origin! Puzzle Game",
@@ -216963,6 +218327,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T02:44:56Z",
         "version": "2.2.18"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:06:34Z",
+        "version": "2.2.19"
       }
     ],
     "name": "X-HERO",
@@ -217533,6 +218903,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T01:26:55Z",
         "version": "1.0.20"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:16:19Z",
+        "version": "1.0.23"
       }
     ],
     "name": "Nientum - Op.ZERO",
@@ -217593,6 +218969,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T10:58:46Z",
         "version": "1.23.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T15:59:51Z",
+        "version": "1.24.0"
       }
     ],
     "name": "Draft Showdown",
@@ -218770,6 +220152,12 @@
         "mentions_duo": true,
         "released": "2026-11-19T16:41:11Z",
         "version": "1.5.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:22:55Z",
+        "version": "1.6.0"
       }
     ],
     "name": "Railway",
@@ -219802,6 +221190,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T03:23:55Z",
         "version": "5.3.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:06:49Z",
+        "version": "5.3.2"
       }
     ],
     "name": "Cytus II",
@@ -221422,6 +222816,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T11:27:40Z",
         "version": "2.2.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:33:46Z",
+        "version": "2.2.9"
       }
     ],
     "name": "Live Translator - AI Translate",
@@ -224394,6 +225794,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T15:26:11Z",
         "version": "4.50.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:30:07Z",
+        "version": "4.51.0"
       }
     ],
     "name": "Neighbors by Ring",
@@ -224496,6 +225902,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T22:06:41Z",
         "version": "3.1.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:31:50Z",
+        "version": "3.1.7"
       }
     ],
     "name": "Ringtones: for iPhone",
@@ -224808,6 +226220,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T16:29:14Z",
         "version": "1.655.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:05:44Z",
+        "version": "1.656.0"
       }
     ],
     "name": "RISE: Sleep Tracker",
@@ -224832,6 +226250,12 @@
         "mentions_duo": false,
         "released": "2026-11-02T18:34:51Z",
         "version": "300000.16.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:23:51Z",
+        "version": "300000.17.0"
       }
     ],
     "name": "Rise Up! Protect the Balloon",
@@ -225102,6 +226526,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T23:20:26Z",
         "version": "4.0.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:22:42Z",
+        "version": "4.0.1"
       }
     ],
     "name": "Smart Closet - Your Stylist",
@@ -226672,6 +228102,12 @@
         "mentions_duo": true,
         "released": "2026-11-16T22:47:04Z",
         "version": "7.1.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:09:36Z",
+        "version": "7.1.5"
       }
     ],
     "name": "Amazing Slow Downer",
@@ -227800,6 +229236,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T02:05:18Z",
         "version": "2.0.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:08:03Z",
+        "version": "2.0.9"
       }
     ],
     "name": "Mundus: Impossible Universe",
@@ -228136,6 +229578,12 @@
         "mentions_duo": false,
         "released": "2026-10-29T21:27:53Z",
         "version": "26.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:52:45Z",
+        "version": "26.2"
       }
     ],
     "name": "Seconds Pro Interval Timer",
@@ -229066,6 +230514,12 @@
         "mentions_duo": false,
         "released": "2026-11-06T15:59:24Z",
         "version": "2.6.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:27:46Z",
+        "version": "2.7.0"
       }
     ],
     "name": "Emulator for Pico-8: Picpic",
@@ -229781,6 +231235,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T02:11:44Z",
         "version": "13.2.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:48:36Z",
+        "version": "13.2.2"
       }
     ],
     "name": "AdBlock Pro for Safari",
@@ -229811,9 +231271,15 @@
         "mentions_duo": true,
         "released": "2026-11-06T16:07:55Z",
         "version": "6.3.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:32:13Z",
+        "version": "6.4.0"
       }
     ],
-    "name": "Transit • Subway & Bus Times",
+    "name": "Transit - Subway & Bus Times",
     "source": "release_notes",
     "status": "supported",
     "tag": "survey",
@@ -232041,6 +233507,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T22:06:19Z",
         "version": "2.0.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T00:51:14Z",
+        "version": "2.0.4"
       }
     ],
     "name": "Oldi - Phone Camera",
@@ -232449,6 +233921,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T12:04:17Z",
         "version": "1.7.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:44:20Z",
+        "version": "1.7.4"
       }
     ],
     "name": "Alpha Picks: Stock Ideas",
@@ -233260,6 +234738,12 @@
         "mentions_duo": false,
         "released": "2026-10-13T07:17:00Z",
         "version": "3.3.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:15:58Z",
+        "version": "3.3.2"
       }
     ],
     "name": "Python Coding",
@@ -235031,6 +236515,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T08:36:49Z",
         "version": "12.19.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:30:33Z",
+        "version": "12.20.1"
       }
     ],
     "name": "Shotgun: Live Music Experience",
@@ -237971,6 +239461,12 @@
         "mentions_duo": false,
         "released": "2026-11-22T10:07:32Z",
         "version": "1.105.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:38:05Z",
+        "version": "1.106.0"
       }
     ],
     "name": "Beach Volley Clash",
@@ -238103,6 +239599,12 @@
         "mentions_duo": true,
         "released": "2026-11-19T03:04:39Z",
         "version": "19.1.1"
+      },
+      {
+        "evidence": "- Newly optimized for iPhone Duo, featuring beautifully designed themes, wallpapers, and wid",
+        "mentions_duo": true,
+        "released": "2026-11-27T06:51:39Z",
+        "version": "19.2.0"
       }
     ],
     "name": "Colorful Widget- Widget&Themes",
@@ -240083,6 +241585,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T15:00:52Z",
         "version": "3.123.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T15:00:39Z",
+        "version": "3.124.0"
       }
     ],
     "name": "SoFi: Mobile Bank & Investing",
@@ -240623,6 +242131,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T19:57:35Z",
         "version": "1.0.130"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:44:04Z",
+        "version": "1.0.131"
       }
     ],
     "name": "Carnival Tycoon: Coin Games",
@@ -242600,6 +244114,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T06:08:17Z",
         "version": "1.2.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:12:53Z",
+        "version": "1.2.7"
       }
     ],
     "name": "Glow Finger Spinner Art App",
@@ -244364,6 +245884,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T07:55:32Z",
         "version": "1.0.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:09:50Z",
+        "version": "1.0.5"
       }
     ],
     "name": "Deck-Man: Cassette Player",
@@ -244466,6 +245992,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T14:17:12Z",
         "version": "47.9.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:41:05Z",
+        "version": "48.0.0"
       }
     ],
     "name": "PineDrama - Short Dramas",
@@ -244616,6 +246148,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T19:13:39Z",
         "version": "0.0.69"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:56:37Z",
+        "version": "0.0.71"
       }
     ],
     "name": "Orca IDE",
@@ -244676,6 +246214,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T13:49:15Z",
         "version": "3.47.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:08:06Z",
+        "version": "3.49.0"
       }
     ],
     "name": "StaffTraveler",
@@ -247505,6 +249049,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T18:31:58Z",
         "version": "2.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T19:13:47Z",
+        "version": "2.3"
       }
     ],
     "name": "Snodoodle: Snowflake Maker",
@@ -248226,6 +249776,12 @@
         "mentions_duo": false,
         "released": "2026-09-22T13:23:40Z",
         "version": "3.40.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T15:08:38Z",
+        "version": "3.41.0"
       }
     ],
     "name": "Slumber－Calm Stories for Sleep",
@@ -248478,6 +250034,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T05:30:46Z",
         "version": "2.6.66"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:48:34Z",
+        "version": "2.6.67"
       }
     ],
     "name": "Bumpy – International Dating",
@@ -248616,6 +250178,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T07:07:54Z",
         "version": "1.34.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:58:47Z",
+        "version": "1.34.1"
       }
     ],
     "name": "Venue: Relaxing Design Game",
@@ -248802,6 +250370,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T13:22:41Z",
         "version": "1.23.14"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:25:41Z",
+        "version": "1.24.8"
       }
     ],
     "name": "Racing Kingdom: Car Drag Race",
@@ -248988,6 +250562,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T21:30:19Z",
         "version": "1.0.52"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:52:50Z",
+        "version": "1.0.53"
       }
     ],
     "name": "Supermarket Tycoon Empire",
@@ -249138,6 +250718,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T13:42:51Z",
         "version": "3.3.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:58:19Z",
+        "version": "3.3.2"
       }
     ],
     "name": "Bevel: AI Health Coach",
@@ -249156,6 +250742,12 @@
         "mentions_duo": false,
         "released": "2026-10-21T01:05:51Z",
         "version": "1.0.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T03:52:02Z",
+        "version": "2.0.0"
       }
     ],
     "name": "SuperZoom: Camera HD Clear",
@@ -251850,6 +253442,12 @@
         "mentions_duo": false,
         "released": "2026-11-22T17:35:31Z",
         "version": "1.0.602"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:02:18Z",
+        "version": "1.0.603"
       }
     ],
     "name": "Kingdom Guard:Tower Defense TD",
@@ -254738,6 +256336,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T07:33:08Z",
         "version": "5.41.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:45:56Z",
+        "version": "5.42.0"
       }
     ],
     "name": "Tencent Video",
@@ -254822,6 +256426,12 @@
         "mentions_duo": true,
         "released": "2026-10-26T06:05:08Z",
         "version": "10.2.3"
+      },
+      {
+        "evidence": "- 全面适配 iPhone Duo - Liquid Glass 适配 - 问题修复与体验优化",
+        "mentions_duo": true,
+        "released": "2026-11-27T00:29:48Z",
+        "version": "10.3.0"
       }
     ],
     "name": "微信读书",
@@ -256269,6 +257879,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T16:35:32Z",
         "version": "1.1.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:06:23Z",
+        "version": "1.2.0"
       }
     ],
     "name": "Dartwords",
@@ -256863,6 +258479,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T17:30:54Z",
         "version": "2.0.16"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:17:43Z",
+        "version": "2.0.17"
       }
     ],
     "name": "Theo: Prayer & Meditation",
@@ -257205,6 +258827,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T01:04:59Z",
         "version": "2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:02:54Z",
+        "version": "2.0.1"
       }
     ],
     "name": "StoryGraph: Reading Tracker",
@@ -258897,6 +260525,12 @@
         "mentions_duo": false,
         "released": "2026-10-21T07:46:56Z",
         "version": "2.36.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T15:31:03Z",
+        "version": "2.37.0"
       }
     ],
     "name": "SpongeBob Adventures: In A Jam",
@@ -260050,6 +261684,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T00:40:59Z",
         "version": "4.1.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:12:53Z",
+        "version": "4.2.0"
       }
     ],
     "name": "Bulletins",
@@ -260968,6 +262608,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T14:34:22Z",
         "version": "4.7.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:17:52Z",
+        "version": "4.7.2"
       }
     ],
     "name": "Toca Boca Jr: Fun Kids Games",
@@ -261184,6 +262830,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T22:18:28Z",
         "version": "1.0.376"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:46:13Z",
+        "version": "1.0.377"
       }
     ],
     "name": "Weathergraph weather widget",
@@ -261724,6 +263376,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T02:36:13Z",
         "version": "2.15.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:30:20Z",
+        "version": "2.15.1"
       }
     ],
     "name": "Bible Note: Sermon Notes",
@@ -263435,6 +265093,12 @@
         "mentions_duo": false,
         "released": "2026-07-07T17:31:30Z",
         "version": "2.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:47:20Z",
+        "version": "2.2.1"
       }
     ],
     "name": "TradeLocker",
@@ -263657,6 +265321,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T22:14:48Z",
         "version": "8.19.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:19:30Z",
+        "version": "8.19.1"
       }
     ],
     "name": "Fitness App (ABC Trainerize)",
@@ -263873,6 +265543,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T15:10:35Z",
         "version": "6.23.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:47:05Z",
+        "version": "6.23.1"
       }
     ],
     "name": "Transcarent",
@@ -264941,6 +266617,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T01:41:51Z",
         "version": "2.23.01"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:52:17Z",
+        "version": "2.24.00"
       }
     ],
     "name": "Blackjack",
@@ -264977,6 +266659,12 @@
         "mentions_duo": false,
         "released": "2026-11-10T13:34:35Z",
         "version": "1.32.02"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:10:17Z",
+        "version": "1.33.01"
       }
     ],
     "name": "Woodoku Blast: Block Puzzle",
@@ -265709,6 +267397,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T10:35:02Z",
         "version": "2.5.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:51:08Z",
+        "version": "2.5.6"
       }
     ],
     "name": "Hammer: Truck GPS & Maps",
@@ -266003,6 +267697,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T21:33:09Z",
         "version": "3.4.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:05:26Z",
+        "version": "3.5.0"
       }
     ],
     "name": "Evoto: Photo Editor & Retouch",
@@ -266195,6 +267895,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T04:37:04Z",
         "version": "1.4.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:10:48Z",
+        "version": "1.4.2"
       }
     ],
     "name": "Trybe Creators",
@@ -266801,6 +268507,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T06:54:03Z",
         "version": "5.6.9"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:41:55Z",
+        "version": "5.7.0"
       }
     ],
     "name": "Rolling Sky",
@@ -266897,6 +268609,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T10:51:39Z",
         "version": "5.3.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:41:50Z",
+        "version": "5.3.1"
       }
     ],
     "name": "Mad Skills Motocross 3",
@@ -267581,6 +269299,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T14:05:41Z",
         "version": "1.6.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:10:16Z",
+        "version": "1.6.5"
       }
     ],
     "name": "Class Trivia",
@@ -268495,6 +270219,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T17:59:37Z",
         "version": "3.3.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:39:29Z",
+        "version": "3.3.4"
       }
     ],
     "name": "Basketball Master: Slam Hero",
@@ -269203,6 +270933,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T07:27:22Z",
         "version": "1.2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:39:11Z",
+        "version": "1.2.1"
       }
     ],
     "name": "Sand Blocks: Drop Puzzle",
@@ -269329,6 +271065,12 @@
         "mentions_duo": false,
         "released": "2026-11-05T01:24:46Z",
         "version": "1.28.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:09:52Z",
+        "version": "1.29"
       }
     ],
     "name": "Focus Friend, by Hank Green",
@@ -269683,9 +271425,15 @@
         "mentions_duo": false,
         "released": "2026-08-10T15:45:06Z",
         "version": "1.2.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:25:14Z",
+        "version": "1.3.3"
       }
     ],
-    "name": "Brain Test 5: Tricky Challenge",
+    "name": "Brain Test 5: Hard Challenge",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -269701,6 +271449,12 @@
         "mentions_duo": false,
         "released": "2026-10-07T15:06:36Z",
         "version": "1.6.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:27:05Z",
+        "version": "1.6.11"
       }
     ],
     "name": "Brain Test All-Star: IQ Boost",
@@ -270091,6 +271845,12 @@
         "mentions_duo": true,
         "released": "2026-11-25T17:25:42Z",
         "version": "4.3.19"
+      },
+      {
+        "evidence": "y Settings has a cleaner layout. Better rotation support on iPhone Duo. Other small fixes and performance improvements.",
+        "mentions_duo": true,
+        "released": "2026-11-27T06:43:01Z",
+        "version": "4.3.20"
       }
     ],
     "name": "Bill Tracker Pro: Budget Saver",
@@ -270367,6 +272127,12 @@
         "mentions_duo": true,
         "released": "2026-11-25T23:59:02Z",
         "version": "12.2.3"
+      },
+      {
+        "evidence": "fixes  New in version 12: ============= - Added support for iPhone Duo: the app now adapts to its wide, foldable screen as well as",
+        "mentions_duo": true,
+        "released": "2026-11-27T17:05:18Z",
+        "version": "12.2.4"
       }
     ],
     "name": "iTablaPro",
@@ -271731,6 +273497,12 @@
         "mentions_duo": false,
         "released": "2026-09-18T02:02:13Z",
         "version": "1.0.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:51:18Z",
+        "version": "1.0.5"
       }
     ],
     "name": "Seekee: Ai Search & Ai Tools",
@@ -272715,6 +274487,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T13:20:57Z",
         "version": "1.6.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:06:17Z",
+        "version": "1.6.1"
       }
     ],
     "name": "VeriSky: Weather & Rain Radar",
@@ -272931,6 +274709,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T09:55:32Z",
         "version": "1.58.10"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:02:26Z",
+        "version": "1.58.11"
       }
     ],
     "name": "Bingo Voyage: Live Bingo Games",
@@ -273189,6 +274973,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T21:34:22Z",
         "version": "3.12.83"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:57:31Z",
+        "version": "3.12.84"
       }
     ],
     "name": "Astra - Life Advice",
@@ -275230,6 +277020,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T02:07:01Z",
         "version": "3.48.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:16:50Z",
+        "version": "3.49.0"
       }
     ],
     "name": "Vita Mahjong",
@@ -275812,6 +277608,12 @@
         "mentions_duo": false,
         "released": "2026-11-12T02:48:15Z",
         "version": "1.67.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:16:50Z",
+        "version": "1.68.0"
       }
     ],
     "name": "Truck Star",
@@ -278488,11 +280290,17 @@
         "mentions_duo": false,
         "released": "2026-09-16T07:17:03Z",
         "version": "4.0.20"
+      },
+      {
+        "evidence": "ode on iPhone, a new mini map on iPad and Mac, and made for iPhone Duo. - CarPlay gets voice mode, hands-free map control with Sir",
+        "mentions_duo": true,
+        "released": "2026-11-27T15:04:41Z",
+        "version": "4.1"
       }
     ],
     "name": "Storm Radar: Weather Tracker",
-    "source": null,
-    "status": "unknown",
+    "source": "release_notes",
+    "status": "supported",
     "tag": "survey",
     "track_id": 1216396545
   },
@@ -278986,6 +280794,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T05:56:26Z",
         "version": "8.25.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-24T02:15:16Z",
+        "version": "8.25.1"
       }
     ],
     "name": "WebNovel - Read Novels & Manga",
@@ -284045,6 +285859,12 @@
         "mentions_duo": false,
         "released": "2026-10-30T08:04:19Z",
         "version": "6.8.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:03:19Z",
+        "version": "6.9.0"
       }
     ],
     "name": "MuseDash",
@@ -284945,6 +286765,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T12:12:01Z",
         "version": "3.2.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:43:00Z",
+        "version": "3.2.3"
       }
     ],
     "name": "Scanner App - Scan PDF & Docs",
@@ -285701,6 +287527,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T23:54:06Z",
         "version": "2.0.16"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:52:59Z",
+        "version": "2.0.17"
       }
     ],
     "name": "Rain Maps",
@@ -286679,6 +288511,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T23:28:52Z",
         "version": "3.56"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:31:19Z",
+        "version": "3.57"
       }
     ],
     "name": "Find Hidden Objects - Spot It!",
@@ -287489,6 +289327,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T22:53:02Z",
         "version": "5.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:33:28Z",
+        "version": "6.0"
       }
     ],
     "name": "TV Club: Movies & Show Tracker",
@@ -287609,6 +289453,12 @@
         "mentions_duo": false,
         "released": "2026-11-15T06:40:05Z",
         "version": "6.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:56:39Z",
+        "version": "6.9"
       }
     ],
     "name": "iBend Pipe",
@@ -289037,6 +290887,12 @@
         "mentions_duo": false,
         "released": "2026-11-17T01:38:42Z",
         "version": "7.0.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:40:48Z",
+        "version": "7.0.3"
       }
     ],
     "name": "直播吧-看球聊球、资讯数据",
@@ -290423,6 +292279,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T23:16:31Z",
         "version": "17.97.1704"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:14:37Z",
+        "version": "17.98.1713"
       }
     ],
     "name": "Boggle With Friends: Word Game",
@@ -291024,6 +292886,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T18:28:20Z",
         "version": "2026.11.13"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T20:06:17Z",
+        "version": "2026.11.26"
       }
     ],
     "name": "QuoteIQ: Contractor CRM",
@@ -291270,6 +293138,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T09:41:02Z",
         "version": "8.98.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T00:21:33Z",
+        "version": "8.98.2"
       }
     ],
     "name": "携程旅行-订酒店机票火车票",
@@ -291505,6 +293379,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:35:45Z",
         "version": "5.99.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T00:53:11Z",
+        "version": "6.0.0"
       }
     ],
     "name": "Sudoku - Brain Puzzle Games",
@@ -292273,6 +294153,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T07:10:59Z",
         "version": "2.6.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:42:56Z",
+        "version": "2.6.5"
       }
     ],
     "name": "Eclipse - 2nd dawn",
@@ -292973,6 +294859,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T15:43:12Z",
         "version": "2026.48.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:51:14Z",
+        "version": "2026.48.4"
       }
     ],
     "name": "komoot - hike, bike & run",
@@ -293621,6 +295513,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T07:21:37Z",
         "version": "2.14.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:46:43Z",
+        "version": "2.14.1"
       }
     ],
     "name": "Weather NOW: Live Storm Radar",
@@ -293651,6 +295549,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T16:09:49Z",
         "version": "2.14.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:38:56Z",
+        "version": "2.14.1"
       }
     ],
     "name": "Weather Now PRO – Rain Radar",
@@ -294095,6 +295999,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T08:54:45Z",
         "version": "2.16.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T11:34:45Z",
+        "version": "2.17.0"
       }
     ],
     "name": "stats.fm for Spotify Music App",
@@ -294503,6 +296413,12 @@
         "mentions_duo": false,
         "released": "2026-11-11T00:22:39Z",
         "version": "1.84"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:50:56Z",
+        "version": "1.85"
       }
     ],
     "name": "Jewel Color Sort: Diamond Game",
@@ -294659,6 +296575,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T16:09:24Z",
         "version": "34.50"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:09:12Z",
+        "version": "34.60"
       }
     ],
     "name": "YouDJ Mixer - Easy DJ app",
@@ -295121,6 +297043,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T03:56:13Z",
         "version": "0.35.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:30:42Z",
+        "version": "0.35.1"
       }
     ],
     "name": "Enchanted Inn: Merge & Mystery",
@@ -296273,6 +298201,12 @@
         "mentions_duo": false,
         "released": "2026-11-23T14:13:12Z",
         "version": "27.13"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:01:57Z",
+        "version": "27.14"
       }
     ],
     "name": "Top Eleven Be a Soccer Manager",
@@ -296573,6 +298507,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T23:02:44Z",
         "version": "3.1.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:18:27Z",
+        "version": "3.1.2"
       }
     ],
     "name": "Vanta: Local AI & Self-Hosted",
@@ -296783,6 +298723,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T20:16:17Z",
         "version": "3.1.86"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:19:19Z",
+        "version": "3.1.87"
       }
     ],
     "name": "RainDrop - Rain Totals & Radar",
@@ -298872,6 +300818,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T07:41:51Z",
         "version": "56.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:10:25Z",
+        "version": "56.4"
       }
     ],
     "name": "Aqua Map Boating",
@@ -299119,9 +301071,15 @@
         "mentions_duo": false,
         "released": "2026-11-17T13:04:30Z",
         "version": "1.125"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:55:30Z",
+        "version": "1.126"
       }
     ],
-    "name": "Chatbox - AI Agent & Chatbot",
+    "name": "ChatBox - AI Agent & Chatbot",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -299347,6 +301305,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T21:05:54Z",
         "version": "26.44.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:43:25Z",
+        "version": "26.45.0"
       }
     ],
     "name": "Cat Escape: Pet Cat Games",
@@ -300494,6 +302458,12 @@
         "mentions_duo": false,
         "released": "2026-09-17T12:51:48Z",
         "version": "2.5.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:51:30Z",
+        "version": "2.6.0"
       }
     ],
     "name": "House AI: AI Room Design, Home",
@@ -300560,6 +302530,12 @@
         "mentions_duo": false,
         "released": "2026-11-21T19:55:19Z",
         "version": "1.0.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:28:35Z",
+        "version": "1.0.5"
       }
     ],
     "name": "Love Sofia - Concept Filter",
@@ -304178,6 +306154,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T17:08:11Z",
         "version": "1.18.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:01:18Z",
+        "version": "1.19.0"
       }
     ],
     "name": "Recipe Lab Studio: RAW Editor",
@@ -304880,6 +306862,12 @@
         "mentions_duo": false,
         "released": "2026-11-03T14:42:44Z",
         "version": "1.50.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:35:31Z",
+        "version": "1.50.3"
       }
     ],
     "name": "Finelo: Master Trading",
@@ -308480,6 +310468,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T00:11:43Z",
         "version": "2.51.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T06:45:13Z",
+        "version": "2.52.0"
       }
     ],
     "name": "Zen Word® - Relax Puzzle Game",
@@ -309693,6 +311687,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T01:29:21Z",
         "version": "3.28.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:08:20Z",
+        "version": "3.29.0"
       }
     ],
     "name": "Love8 - App for Couples",
@@ -310167,6 +312167,12 @@
         "mentions_duo": false,
         "released": "2026-10-27T14:09:49Z",
         "version": "10.0.1"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T12:31:14Z",
+        "version": "10.1.0"
       }
     ],
     "name": "Watch Calendar - Monthly",
@@ -310969,6 +312975,12 @@
         "mentions_duo": false,
         "released": "2026-11-06T21:01:19Z",
         "version": "1.0.99"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T22:10:13Z",
+        "version": "1.0.100"
       }
     ],
     "name": "Pou 3D",
@@ -311419,6 +313431,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T19:24:28Z",
         "version": "1.0.2.042"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:13:08Z",
+        "version": "1.0.2.043"
       }
     ],
     "name": "Wayk: Alarm Clock to Wake Up",
@@ -311467,6 +313485,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T18:14:23Z",
         "version": "2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T16:32:43Z",
+        "version": "2.1"
       }
     ],
     "name": "Deal Hunter: Price Tracker",
@@ -314717,9 +316741,15 @@
         "mentions_duo": false,
         "released": "2026-11-16T18:41:58Z",
         "version": "2.1.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:16:49Z",
+        "version": "2.1.5"
       }
     ],
-    "name": "Loop for Flight Crew",
+    "name": "Loop: Flight Crew Schedule",
     "source": null,
     "status": "unknown",
     "tag": "survey",
@@ -316889,6 +318919,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T23:22:52Z",
         "version": "8.9.6"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:56:27Z",
+        "version": "9.0.0"
       }
     ],
     "name": "Minipuzzles: Daily Brain Games",
@@ -316943,6 +318979,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T11:09:36Z",
         "version": "2.89.2"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:34:42Z",
+        "version": "2.89.3"
       }
     ],
     "name": "Duet Dating App: Chat & Meet",
@@ -317399,6 +319441,12 @@
         "mentions_duo": false,
         "released": "2026-08-22T02:51:26Z",
         "version": "1.5"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:08:00Z",
+        "version": "1.6"
       }
     ],
     "name": "Fire Detector Europe",
@@ -318119,6 +320167,12 @@
         "mentions_duo": false,
         "released": "2026-10-28T08:52:25Z",
         "version": "2.8.22"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T08:24:21Z",
+        "version": "2.8.23"
       }
     ],
     "name": "Measuring Tape+ Measure AR app",
@@ -320485,6 +322539,12 @@
         "mentions_duo": false,
         "released": "2026-11-25T21:59:18Z",
         "version": "1.5.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T21:57:58Z",
+        "version": "1.5.1"
       }
     ],
     "name": "Nowdex",
@@ -321021,6 +323081,12 @@
         "mentions_duo": false,
         "released": "2026-11-19T15:52:53Z",
         "version": "1.7.14"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T01:06:53Z",
+        "version": "1.7.16"
       }
     ],
     "name": "Xogot: Godot for iPad & iPhone",
@@ -321369,6 +323435,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T21:48:08Z",
         "version": "2026.11.17"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T10:19:06Z",
+        "version": "2026.11.24"
       }
     ],
     "name": "Wikipedia",
@@ -322186,6 +324258,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T08:53:07Z",
         "version": "22.7"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T14:33:56Z",
+        "version": "22.8"
       }
     ],
     "name": "Fax.Plus - Receive & Send Fax",
@@ -323266,6 +325344,12 @@
         "mentions_duo": false,
         "released": "2026-11-22T01:20:51Z",
         "version": "1.2.3"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T07:45:09Z",
+        "version": "1.2.4"
       }
     ],
     "name": "Mealie - Recipe & Meal Planner",
@@ -323488,6 +325572,12 @@
         "mentions_duo": false,
         "released": "2026-11-20T21:25:05Z",
         "version": "1.0.8"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:18:25Z",
+        "version": "1.0.9"
       }
     ],
     "name": "Карта БПЛА — радар онлайн",
@@ -325949,6 +328039,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T11:20:49Z",
         "version": "4.8.12"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T18:56:44Z",
+        "version": "4.8.13"
       }
     ],
     "name": "Simples Dental - Odontologia",
@@ -326315,6 +328411,12 @@
         "mentions_duo": false,
         "released": "2026-11-18T19:34:40Z",
         "version": "16.4"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T09:34:14Z",
+        "version": "16.5"
       }
     ],
     "name": "Jackpot World™ - Casino Slots",
@@ -326333,6 +328435,12 @@
         "mentions_duo": false,
         "released": "2026-10-28T16:45:23Z",
         "version": "4.71"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T05:34:57Z",
+        "version": "4.93"
       }
     ],
     "name": "Cash Frenzy™ - Slots Casino",
@@ -326663,6 +328771,12 @@
         "mentions_duo": false,
         "released": "2026-11-13T06:25:05Z",
         "version": "7.7.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T02:49:45Z",
+        "version": "7.8.0"
       }
     ],
     "name": "Solitaire - Card Games Classic",
@@ -326891,6 +329005,12 @@
         "mentions_duo": false,
         "released": "2026-11-14T17:05:34Z",
         "version": "1.5.59"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:19:39Z",
+        "version": "1.5.61"
       }
     ],
     "name": "Thrifty Joe",
@@ -328055,6 +330175,12 @@
         "mentions_duo": true,
         "released": "2026-11-22T15:13:35Z",
         "version": "3.10"
+      },
+      {
+        "evidence": "s the soft sheen of a seashell.  Recent updates: - Made for iPhone Duo. Set it half-open on your desk for a little turntable, with",
+        "mentions_duo": true,
+        "released": "2026-11-27T18:40:29Z",
+        "version": "3.11"
       }
     ],
     "name": "MD Vinyl Music App",
@@ -328824,6 +330950,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T22:08:54Z",
         "version": "3.102"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-26T23:28:27Z",
+        "version": "3.103"
       }
     ],
     "name": "TextPort: Text Message Export",
@@ -330444,6 +332576,12 @@
         "mentions_duo": false,
         "released": "2026-11-24T19:11:34Z",
         "version": "2.44.1012"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T13:42:40Z",
+        "version": "2.44.1015"
       }
     ],
     "name": "UK ETA",
@@ -331416,6 +333554,12 @@
         "mentions_duo": false,
         "released": "2026-11-26T15:20:21Z",
         "version": "2.0"
+      },
+      {
+        "evidence": null,
+        "mentions_duo": false,
+        "released": "2026-11-27T17:29:51Z",
+        "version": "2.0.1"
       }
     ],
     "name": "Bonvo Ski: Ski & Snowboard Map",
